@@ -1,0 +1,2 @@
+# Drivers_Ambulance_App
+ This app is the second interface of the Users_Ambulance_App project that's dedicated to the drivers of the ambulance and the idea of that app is to help ambulance drivers to get notified when there's a need of an urgent ambulance near them so it provides the drivers with information of the current location of the users that are in a need of an ambulance and helps the driver to reach the nearest hospital nearby them to save time and so helps save a life if possible
